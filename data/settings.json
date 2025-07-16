@@ -1,0 +1,47 @@
+[
+    {
+        "category": "Terminals",
+        "settings": [
+            {
+                "type": 6,
+                "name": "AutoTerm",
+                "value": true
+            },
+            {
+                "type": 1,
+                "name": "ClickDelay",
+                "value": 120
+            },
+            {
+                "type": 1,
+                "name": "FirstClickDelay",
+                "value": 400
+            },
+            {
+                "type": 1,
+                "name": "BreakThreshold",
+                "value": 500
+            },
+            {
+                "type": 6,
+                "name": "ForceP3",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "AutoMelody",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "MelodySkip",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "FirstSlotMelody",
+                "value": false
+            }
+        ]
+    }
+]
